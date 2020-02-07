@@ -1,0 +1,1 @@
+An exercise to learn events on js
